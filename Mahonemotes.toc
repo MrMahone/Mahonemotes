@@ -5,6 +5,7 @@
 ## Author: Mahone
 ## Version: @project-version@
 ## SavedVariables: MahonemotesDB
+## X-Curse-Project-ID: 1789107
 
 Locale.lua
 Spiral.lua
