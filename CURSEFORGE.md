@@ -25,7 +25,7 @@ Keep rotating **clockwise past 12 o'clock** and the next page appears; rotate ba
 
 Works in combat (emotes are not protected actions). No dependencies, no libraries.
 
-*Labels are currently German; English localization is planned.*
+*Available in English and German (chosen automatically by your client language).*
 
 ---
 
