@@ -1,8 +1,9 @@
-## Interface: 16001, 120105
+## Interface: 16001
 ## Title: Mahonemotes
-## Notes: Emote-Radialmenü: Taste halten, Richtung wählen, loslassen.
+## Notes: Radial emote wheel: hold a key, pick a direction, release.
+## Notes-deDE: Emote-Radialmenü: Taste halten, Richtung wählen, loslassen.
 ## Author: Mahone
-## Version: 0.1.0
+## Version: @project-version@
 ## SavedVariables: MahonemotesDB
 
 Locale.lua

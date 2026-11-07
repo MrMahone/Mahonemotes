@@ -2,7 +2,7 @@
 # Baut dist/Mahonemotes-<Version>.zip mit nur den Addon-Dateien.
 set -euo pipefail
 cd "$(dirname "$0")"
-version=$(sed -n 's/^## Version: *//p' Mahonemotes.toc | tr -d '\r')
+version=$(git describe --tags --always --dirty)
 lua5.1 tests/spiral_test.lua
 stage=$(mktemp -d)
 trap 'rm -rf "$stage"' EXIT

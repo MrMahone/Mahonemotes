@@ -1,0 +1,13 @@
+package-as: Mahonemotes
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - tests
+  - media
+  - dist
+  - package.sh
+  - CURSEFORGE.md
+  - README.md

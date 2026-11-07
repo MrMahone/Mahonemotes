@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.0
+- English localization (default); German is used automatically on deDE clients
+
 ## 0.1.0
 - First release: radial emote wheel for WoW Forever
 - 12 slots per page (30° each), 3 pages: everyday, fun, group
