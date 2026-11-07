@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="MAHONEMOTES_WHEEL" header="MAHONEMOTES" runOnUp="true">
+		Mahonemotes_OnKey(keystate)
+	</Binding>
+</Bindings>
